@@ -1,0 +1,34 @@
+[{
+  "subscription": {
+    "period": {
+      "unit": "MONTH",
+      "count": 1
+    },
+    "price": "$0.00",
+    "doc": {
+      "documentType": "Subscription",
+      "title": "Titanium Plan Monthly (TrackView)"
+    },
+    "expirationDate": "2019-07-28T22:00:13.176Z",
+    "pricing": [{
+      "period": {
+        "unit": "SECOND",
+        "count": 604800
+      },
+      "price": "$0.00",
+      "repeatedPricing": false
+    }, {
+      "period": {
+        "unit": "MONTH",
+        "count": 1
+      },
+      "price": "$6.99",
+      "repeatedPricing": true
+    }],
+    "userChangeRecord": [{
+      "date": "2019-07-24T22:15:42.055Z",
+      "type": "Cancel"
+    }],
+    "state": "Canceled"
+  }
+}]

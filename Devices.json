@@ -1,0 +1,180 @@
+[{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Boost Mobile",
+      "playStoreClientVersion": 82242510,
+      "manufacturer": "LGE",
+      "modelName": "LM-X320",
+      "deviceName": "mmh5lm",
+      "productName": "mmh5lm",
+      "retailBrand": "lge",
+      "totalMemoryBytes": "1934340096",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "US",
+      "userLocale": "en_US",
+      "buildFingerprint": "lge/mmh5lm/mmh5lm:9/PKQ1.190522.001/202451507ffaa:user/release-keys",
+      "androidSdkVersion": "28"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "Boost Mobile",
+      "manufacturer": "LGE",
+      "modelName": "LM-X320",
+      "deviceName": "mmh5lm",
+      "productName": "mmh5lm",
+      "retailBrand": "lge",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "US",
+      "userLocale": "en_US",
+      "androidSdkVersion": "28"
+    },
+    "deviceRegistrationTime": "2020-07-07T23:34:23.719Z",
+    "userAddedOnDeviceTime": "2020-07-12T07:03:39.035Z",
+    "lastTimeDeviceActive": "2020-10-24T05:53:53.172431Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Verizon Wireless",
+      "playStoreClientVersion": 82131400,
+      "manufacturer": "motorola",
+      "modelName": "moto e5 go",
+      "deviceName": "rjames_go",
+      "productName": "rjames_go_vzw",
+      "retailBrand": "motorola",
+      "totalMemoryBytes": "920047616",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "US",
+      "userLocale": "en_US",
+      "buildFingerprint": "motorola/rjames_go_vzw/rjames_go:8.1.0/OPPS28.151-22-5-20/29180:user/release-keys",
+      "androidSdkVersion": "27"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "modelName": "moto e5 go",
+      "deviceName": "rjames_go",
+      "productName": "rjames_go_vzw",
+      "retailBrand": "motorola",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "US",
+      "userLocale": "en_US",
+      "androidSdkVersion": "27"
+    },
+    "deviceRegistrationTime": "2020-02-01T15:18:46.062Z",
+    "userAddedOnDeviceTime": "2020-02-05T01:12:48.718Z",
+    "lastTimeDeviceActive": "2020-08-15T04:10:28.973871Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Boost Mobile",
+      "playStoreClientVersion": 82011700,
+      "manufacturer": "samsung",
+      "modelName": "SM-A102U",
+      "deviceName": "a10e",
+      "productName": "a10esq",
+      "retailBrand": "samsung",
+      "totalMemoryBytes": "1786994688",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "US",
+      "userLocale": "en_US",
+      "buildFingerprint": "samsung/a10esq/a10e:9/PPR1.180610.011/A102USQS6ATD6:user/release-keys",
+      "androidSdkVersion": "28"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "Boost Mobile",
+      "manufacturer": "samsung",
+      "modelName": "SM-A102U",
+      "deviceName": "a10e",
+      "productName": "a10esq",
+      "retailBrand": "samsung",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "US",
+      "userLocale": "en_US",
+      "androidSdkVersion": "28"
+    },
+    "deviceRegistrationTime": "2020-02-29T00:10:03.956Z",
+    "userAddedOnDeviceTime": "2020-03-07T10:38:58.131Z",
+    "lastTimeDeviceActive": "2020-05-25T13:33:31.204383Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Boost Mobile",
+      "playStoreClientVersion": 81871800,
+      "manufacturer": "samsung",
+      "modelName": "SM-J737P",
+      "deviceName": "j7topeltespr",
+      "productName": "j7topeltespr",
+      "retailBrand": "samsung",
+      "totalMemoryBytes": "1814929408",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "US",
+      "userLocale": "en_US",
+      "buildFingerprint": "samsung/j7topeltespr/j7topeltespr:9/PPR1.180610.011/J737PVPS5BTA3:user/release-keys",
+      "androidSdkVersion": "28"
+    },
+    "deviceRegistrationTime": "2020-01-25T21:13:07.969Z",
+    "userAddedOnDeviceTime": "2020-01-25T21:13:07.969Z",
+    "lastTimeDeviceActive": "2020-02-09T11:50:31.790095Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Boost Mobile",
+      "playStoreClientVersion": 81871800,
+      "manufacturer": "samsung",
+      "modelName": "SM-J737P",
+      "deviceName": "j7topeltespr",
+      "productName": "j7topeltespr",
+      "retailBrand": "samsung",
+      "totalMemoryBytes": "1814929408",
+      "nativePlatform": ["armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "US",
+      "userLocale": "en_US",
+      "buildFingerprint": "samsung/j7topeltespr/j7topeltespr:9/PPR1.180610.011/J737PVPS5BTA3:user/release-keys",
+      "androidSdkVersion": "28"
+    },
+    "deviceRegistrationTime": "2019-12-09T20:18:21.013Z",
+    "userAddedOnDeviceTime": "2020-02-05T18:59:52.635Z",
+    "lastTimeDeviceActive": "2020-02-09T13:29:53.777007Z"
+  }
+},
+{
+  "device": {
+    "mostRecentData": {
+      "carrierName": "Verizon Wireless",
+      "playStoreClientVersion": 81841500,
+      "manufacturer": "Reliance",
+      "modelName": "RC555L",
+      "deviceName": "RC555L",
+      "productName": "VZW_RC555L",
+      "retailBrand": "Orbic",
+      "totalMemoryBytes": "1967022080",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "US",
+      "userLocale": "en_US",
+      "buildFingerprint": "Orbic/RC555L/RC555L:7.1.2/N2G47H/78465dc:user/release-keys",
+      "androidSdkVersion": "25"
+    },
+    "dataAtTimeOfUserPlayActivity": {
+      "carrierName": "Verizon Wireless",
+      "manufacturer": "Reliance",
+      "modelName": "RC555L",
+      "deviceName": "RC555L",
+      "productName": "VZW_RC555L",
+      "retailBrand": "Orbic",
+      "nativePlatform": ["arm64-v8a", "armeabi-v7a", "armeabi"],
+      "deviceIpCountry": "US",
+      "userLocale": "en_US",
+      "androidSdkVersion": "25"
+    },
+    "deviceRegistrationTime": "2019-12-17T23:00:22.952Z",
+    "userAddedOnDeviceTime": "2019-12-17T23:00:22.952Z",
+    "lastTimeDeviceActive": "2020-06-17T19:52:24.783535Z"
+  }
+}]

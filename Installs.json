@@ -1,0 +1,6449 @@
+[{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "ANT+ Plugins Service"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845003Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "ANT Radio Service"
+    },
+    "firstInstallationTime": "2020-01-26T00:56:08.190Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Sheets"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416006Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:29:47.822Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Slides"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416007Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:29:47.822Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.restore"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416012Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:29:47.822Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.restore"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050005Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.restore"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845007Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.restore"
+    },
+    "firstInstallationTime": "2019-08-10T03:07:13.171Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.speechservices"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428009Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.speechservices"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833009Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T05:20:57.292Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.speechservices"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922009Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:08:48.294Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.turbo"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416014Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:29:47.822Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.turbo"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050006Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.turbo"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845008Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.apps.turbo"
+    },
+    "firstInstallationTime": "2019-08-10T03:07:13.171001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail Go"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428016Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail Go"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833016Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T05:20:57.292Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail Go"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922016Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:08:48.294Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Lens"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416028Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:29:47.822Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.lge.bnr"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416029Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:29:47.822Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.motorola.ccc.ota"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428026Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.motorola.ccc.ota"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833026Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T05:20:57.292Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.motorola.ccc.ota"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922026Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:08:48.294Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Moto Widget"
+    },
+    "firstInstallationTime": "2020-07-09T22:47:00.896Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.SMT"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050012Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.SMT"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083015Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T10:35:21.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.SMT"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845016Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.SMT"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692025Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.SMT"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324012Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.app.reminder"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050013Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.app.reminder"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083016Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T10:35:21.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.app.reminder"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845017Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.app.reminder"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692026Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.app.reminder"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324013Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.app.simplesharing"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050014Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.app.simplesharing"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845018Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.app.simplesharing"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324014Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Email"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050015Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Email"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845019Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Email"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692027Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Email"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324015Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.video"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050018Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.video"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083018Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T10:35:21.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.video"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845022Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.video"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692029Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.android.video"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324019Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.samsung.ims.smk"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050019Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Secure Folder"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050020Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Secure Folder"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083019Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T10:35:21.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Secure Folder"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845023Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Secure Folder"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692030Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Secure Folder"
+    },
+    "firstInstallationTime": "2019-07-19T21:23:51.288Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.android.app.clockpackage"
+    },
+    "firstInstallationTime": "2020-04-06T02:39:19.596Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.android.app.clockpackage"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845024Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.android.app.clockpackage"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324020Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Gallery"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050025Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Gallery"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083022Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T10:35:21.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Gallery"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845028Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Gallery"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692033Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Gallery"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324024Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.android.inputmethod"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050026Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.android.inputmethod"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083023Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T10:35:21.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.android.inputmethod"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845029Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.android.inputmethod"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692034Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.android.inputmethod"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324025Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.imsservice"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050027Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.imsservice"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845030Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.sec.imsservice"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324026Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Push Service"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050028Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Push Service"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083024Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T10:35:21.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Push Service"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845031Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Push Service"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692035Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Push Service"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324027Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.skms.android.agent"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050029Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.skms.android.agent"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083025Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T10:35:21.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.skms.android.agent"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845032Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.skms.android.agent"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692036Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.skms.android.agent"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324028Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mobile Installer (ソフトバンク)"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416030Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:29:47.822Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mobile Installer (ソフトバンク)"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050030Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mobile Installer (ソフトバンク)"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845033Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mobile Installer (ソフトバンク)"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324029Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Briefing"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845035Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416018Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-01-25T21:13:34.083Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116010Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-25T02:57:14.356Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833017Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T11:37:28.453Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692012Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-04T23:57:53.728Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922017Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-12T12:47:18.902Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-04-26T21:53:33.674Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-27T03:10:00.083Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2018-12-05T14:47:47.082Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-03T13:39:48.988Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2018-10-20T23:42:27.586Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-11-15T22:47:56.736Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2018-09-22T05:06:43.721Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-10-09T04:09:00.792Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050008Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428017Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845010Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play services"
+    },
+    "firstInstallationTime": "2019-09-19T15:19:12.119Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416004Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2020-02-06T04:36:19.687Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T04:37:05.299Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116001Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T03:58:15.213Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-26T03:10:01.145Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2019-07-17T10:07:33.586Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:06:17.518Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2019-04-29T02:18:22.911Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-30T05:46:21.490Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2018-12-05T14:53:29.827Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-04T05:27:54.105Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Drive"
+    },
+    "firstInstallationTime": "2018-05-16T16:46:08.597Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T11:54:50.198Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Instant Apps"
+    },
+    "firstInstallationTime": "2019-04-04T00:56:38.572Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-09T00:52:25.793Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Instant Apps"
+    },
+    "firstInstallationTime": "2018-10-21T08:16:05.641Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-11-28T23:42:04.307Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Instant Apps"
+    },
+    "firstInstallationTime": "2018-09-22T05:07:17.062Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-10-18T04:03:06.594Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416002Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-06T10:08:39.160Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-28T03:24:32.765Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-26T02:54:25.152Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-22T14:50:19.035Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:03:57.402Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-05-07T06:45:34.300Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-20T18:22:12.994Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2018-08-06T10:20:02.970Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T10:20:02.970Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2020-03-24T09:08:37.523Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845002Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Chrome: Fast \u0026 Secure"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Cloud Print"
+    },
+    "firstInstallationTime": "2018-12-05T14:50:48.726Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-05T14:50:48.726Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Cloud Print"
+    },
+    "firstInstallationTime": "2018-05-30T05:21:18.847Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-30T05:21:18.847Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416009Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-07T17:46:52.409Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116003Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:12:27.756Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692005Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-29T06:03:54.924Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2019-10-20T10:15:28.052Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T14:57:21.966Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2019-07-08T10:50:31.002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-12T13:17:06.920Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2018-12-05T14:48:52.571Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-11T08:51:51.926Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2018-05-16T17:02:50.824Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T10:35:57.253Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2020-03-28T21:26:50.018Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2020-01-26T04:20:44.649Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Maps - Navigate \u0026 Explore"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Weather \u0026 Hurricane Tracker: The Weather Channel"
+    },
+    "firstInstallationTime": "2020-03-29T22:09:33.309001Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-09T10:38:00.347Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Weather \u0026 Hurricane Tracker: The Weather Channel"
+    },
+    "firstInstallationTime": "2019-05-06T15:00:58.701Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-29T17:37:21.430Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Weather \u0026 Hurricane Tracker: The Weather Channel"
+    },
+    "firstInstallationTime": "2019-03-07T23:48:11.095Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-05T01:31:19.176Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Weather \u0026 Hurricane Tracker: The Weather Channel"
+    },
+    "firstInstallationTime": "2018-06-22T09:29:02.112Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-06-22T09:29:02.112Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Books - Ebooks, Audiobooks, and Comics"
+    },
+    "firstInstallationTime": "2018-05-16T16:38:36.054Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T12:08:48.772Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Docs"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416005Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T19:26:58.884Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Docs"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-26T02:36:25.231Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Docs"
+    },
+    "firstInstallationTime": "2019-10-15T12:52:57.103Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-02T12:06:44.903Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Docs"
+    },
+    "firstInstallationTime": "2018-05-16T16:53:23.001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T11:57:24.244Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google News - Top world \u0026 local news headlines"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416008Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:28:20.342Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google News - Top world \u0026 local news headlines"
+    },
+    "firstInstallationTime": "2018-05-16T16:53:23.001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-07-30T18:57:34.403Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Currents"
+    },
+    "firstInstallationTime": "2018-05-16T17:09:13.065Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-07-30T18:18:50.466Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Clock"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833014Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-22T14:49:35.036Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Clock"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922014Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-25T07:17:03.189Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Clock"
+    },
+    "firstInstallationTime": "2019-04-26T22:01:37.358001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-26T22:01:37.358Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Clock"
+    },
+    "firstInstallationTime": "2018-12-05T14:54:16.415Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-04T05:28:50.863Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Clock"
+    },
+    "firstInstallationTime": "2018-05-16T17:12:03.893Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T10:31:02.810Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Clock"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428014Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416017Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116009Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:13:49.235Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692011Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-26T03:07:37.893Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2018-12-05T14:54:51.752Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-05T01:32:02.652Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2018-05-16T17:12:52.771Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T10:32:56.400Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050007Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845009Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gmail"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324005Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Exchange Services"
+    },
+    "firstInstallationTime": "2018-05-16T17:12:52.771001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-16T17:12:52.771Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416019Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-03T23:00:45.898Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116011Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-27T17:10:48.649Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2019-12-05T04:19:37.970003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2018-12-05T14:52:00.247Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-05T01:30:08.852Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2018-05-16T17:22:10.117Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T11:10:11.572Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050009Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845011Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324007Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416021Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:27:02.062Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116012Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:21:31.186Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833019Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:51:39.060Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922019Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:07:07.689Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2019-04-29T07:22:55.037Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-04T20:56:32.517Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2018-12-05T14:56:36.581Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-02-01T10:40:58.591Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2018-05-16T17:24:34.178Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T11:15:51.137Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Gboard - the Google Keyboard"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428019Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.google.android.launcher"
+    },
+    "firstInstallationTime": "2018-05-16T17:24:34.178001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-16T17:24:34.178Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416023Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-01-25T21:13:34.083Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116014Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:18:40.347Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833020Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-22T14:48:27.214Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692014Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-08-16T01:08:49.692Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922020Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-18T19:27:49.358Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2019-04-26T22:01:00.492002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-26T22:01:00.492Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2018-12-05T14:55:36.561001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-05T14:55:36.561Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2018-05-16T17:24:34.178Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T11:46:14.466Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428020Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Accessibility Suite"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845012Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416024Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:29:09.792Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116015Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:02:43.625Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833021Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:52:33.479Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922021Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:07:45.500Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2019-05-07T06:46:54.753001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-05-18T12:42:24.548Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2018-12-05T13:17:16.687Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-03-20T21:17:05.302Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2018-05-16T17:25:18.643Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-07-30T18:36:30.830Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Music"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428021Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Play Games"
+    },
+    "firstInstallationTime": "2018-05-16T17:25:18.643Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-07-30T18:38:44.544Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Hangouts"
+    },
+    "firstInstallationTime": "2018-05-16T17:26:28.851Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-30T04:02:28.094Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416025Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083014Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T10:35:21.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116016Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:11:12.059Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833022Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:45:02.503Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922022Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-09T20:00:47.689Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692024Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-09T01:31:53.854Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-04-26T22:01:00.492003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-05-30T12:52:51.568Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2018-12-05T14:55:36.561002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-02-27T00:48:15.664Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2018-05-16T17:27:03.552Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-07-30T18:57:00.612Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050010Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428022Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845013Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Text-to-Speech"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324009Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google TV (previously Play Movies \u0026 TV)"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416026Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:20:50.008Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google TV (previously Play Movies \u0026 TV)"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116017Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-27T17:03:55.712Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google TV (previously Play Movies \u0026 TV)"
+    },
+    "firstInstallationTime": "2018-12-05T12:58:32.234Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-04T05:30:45.355Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google TV (previously Play Movies \u0026 TV)"
+    },
+    "firstInstallationTime": "2018-05-16T17:27:36.101Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T11:46:14.466Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android System WebView"
+    },
+    "firstInstallationTime": "2018-05-16T17:30:35.157Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-07-30T18:17:24.225Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "NFL"
+    },
+    "firstInstallationTime": "2018-12-05T14:56:36.581Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-03-06T06:12:36.334Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "NFL"
+    },
+    "firstInstallationTime": "2018-05-16T17:33:58.926Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-07-30T18:40:55.328Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "HP Print Service Plugin"
+    },
+    "firstInstallationTime": "2018-05-16T17:34:40.100Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-30T04:00:13.225Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Motorola Gallery"
+    },
+    "firstInstallationTime": "2018-05-16T17:36:09.286Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-16T17:36:09.286Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Motorola Migrate"
+    },
+    "firstInstallationTime": "2018-05-16T17:37:08.886Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-16T17:37:08.886Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Moto"
+    },
+    "firstInstallationTime": "2018-05-16T17:37:08.886001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-16T17:37:08.886Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Calendar"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416016Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:29:47.822Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Calendar"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116008Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:23:11.903Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Calendar"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833012Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-03T08:56:07.146Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Calendar"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922012Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-31T09:10:52.786Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Calendar"
+    },
+    "firstInstallationTime": "2019-05-07T06:46:54.753Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-14T20:28:13.032Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Calendar"
+    },
+    "firstInstallationTime": "2018-12-05T14:55:36.561Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-09T13:35:02.353Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Calendar"
+    },
+    "firstInstallationTime": "2018-05-16T17:39:04.634Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T11:15:51.137Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Calendar"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428012Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Street View"
+    },
+    "firstInstallationTime": "2018-05-16T17:45:03.974Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-07-30T18:44:32.056Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416027Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116018Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:01:18.391Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833023Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-03T08:55:26.551Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922023Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:08:48.294Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-04-28T17:40:21.835Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-30T05:47:21.447Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2018-12-05T13:00:39.358Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-07T00:43:36.930Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2018-05-16T17:49:29.561Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T11:17:27.305Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050011Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428023Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845014Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "YouTube"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324010Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Motorola Camera"
+    },
+    "firstInstallationTime": "2018-05-16T17:51:03.839Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-16T17:51:03.839Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "FM Radio"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833027Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:40:21.386Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "FM Radio"
+    },
+    "firstInstallationTime": "2018-12-05T12:58:32.234Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-06T00:35:55.844Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "FM Radio"
+    },
+    "firstInstallationTime": "2018-05-16T17:51:03.839001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-16T17:51:03.839Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "FM Radio"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428027Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "FM Radio"
+    },
+    "firstInstallationTime": "2019-08-13T16:10:21.806Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:08:48.294Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Help (previously Moto Help)"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833028Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:48:03.141Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Help (previously Moto Help)"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922028Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-28T12:07:03.909Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Help (previously Moto Help)"
+    },
+    "firstInstallationTime": "2019-05-04T03:59:36.036Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-05-07T06:45:34.300Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Help (previously Moto Help)"
+    },
+    "firstInstallationTime": "2018-05-16T17:57:03.759Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-16T17:57:03.759Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Help (previously Moto Help)"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428028Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Verizon Messages"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116020Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:18:05.850Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Verizon Messages"
+    },
+    "firstInstallationTime": "2018-12-05T14:49:53.336001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-09T14:04:55.964Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Verizon Messages"
+    },
+    "firstInstallationTime": "2018-08-06T11:45:17.552Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T11:45:17.552Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "VZ Navigator"
+    },
+    "firstInstallationTime": "2018-12-05T14:50:48.726002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-05T14:50:48.726Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "VZ Navigator"
+    },
+    "firstInstallationTime": "2018-05-16T17:59:17.740Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-05-16T17:59:17.740Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "My Verizon"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116021Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:07:02.617Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "My Verizon"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833030Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-25T16:24:38.507Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "My Verizon"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922030Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T14:59:24.142Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "My Verizon"
+    },
+    "firstInstallationTime": "2018-12-05T14:54:51.752Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-01-28T06:38:48.520Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "My Verizon"
+    },
+    "firstInstallationTime": "2018-05-16T18:06:06.951Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-06T11:29:20.667Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "My Verizon"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428030Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Feet and inch construction calculator"
+    },
+    "firstInstallationTime": "2019-05-04T04:00:12.106Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-05-04T04:00:12.106Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Feet and inch construction calculator"
+    },
+    "firstInstallationTime": "2018-10-23T17:40:17.970Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-10-23T17:40:17.970Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Feet and inch construction calculator"
+    },
+    "firstInstallationTime": "2018-05-18T22:22:34.215Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-07-30T18:16:45.889Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "All Songs AC/DC Lyrics"
+    },
+    "firstInstallationTime": "2018-07-09T15:33:41.025Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-07-09T15:33:41.025Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Spanish English Translator"
+    },
+    "firstInstallationTime": "2018-08-10T12:59:56.986Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-10T12:59:56.986Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Translate"
+    },
+    "firstInstallationTime": "2018-09-22T15:24:33.587Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-09-22T15:24:33.587Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Translate"
+    },
+    "firstInstallationTime": "2018-08-10T13:06:09.249Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-10T13:06:09.249Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416011Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2020-02-09T09:40:59.999Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T09:40:59.999Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116005Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-19T03:27:28.959Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833007Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-27T09:16:53.377Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922007Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:05:09.982Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2019-04-26T22:02:56.849002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-25T19:26:42.664Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2018-12-05T12:59:59.361Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-03T00:33:02.683Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2018-08-12T13:12:48.259Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-12T13:12:48.259Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Photos"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428007Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Android Auto - Google Maps, Media \u0026 Messaging"
+    },
+    "firstInstallationTime": "2018-08-26T04:05:07.412Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-26T04:05:07.412Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.intellectualflame.ledflashlight.washer"
+    },
+    "firstInstallationTime": "2018-08-27T22:35:37.192Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-08-27T22:35:37.192Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Super Bright LED Flashlight"
+    },
+    "firstInstallationTime": "2018-10-02T23:46:47.249Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-10-02T23:46:47.249Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger Go for Social Media, Messages, Feed"
+    },
+    "firstInstallationTime": "2018-10-16T03:26:13.478Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-10-16T03:26:13.478Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger app, Light All-in-One, Live Free Chat"
+    },
+    "firstInstallationTime": "2018-10-16T03:28:02.981Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-10-16T03:28:02.981Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Calculator"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416015Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:26:15.417Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Calculator"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116007Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:01:18.391Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Calculator"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833011Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:50:19.759Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Calculator"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922011Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-08T05:35:11.964Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Calculator"
+    },
+    "firstInstallationTime": "2019-05-05T10:03:47.735Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-05-07T06:46:11.152Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Calculator"
+    },
+    "firstInstallationTime": "2018-12-05T12:57:56.677Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-05T12:57:56.677Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Calculator"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428011Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Call Block"
+    },
+    "firstInstallationTime": "2018-11-22T06:05:51.140Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-11-22T06:05:51.140Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Wifi Hotspot Portable"
+    },
+    "firstInstallationTime": "2018-12-03T18:42:39.992Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-03T18:42:39.992Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "GoWireless"
+    },
+    "firstInstallationTime": "2018-12-02T10:07:37.159Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-02T10:07:37.159Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Digital TV Antennas"
+    },
+    "firstInstallationTime": "2018-12-02T10:25:29.183Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-02T10:25:29.183Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Wallpapers"
+    },
+    "firstInstallationTime": "2018-12-03T16:55:31.034Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-03T16:55:31.034Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Wallpapers"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428010Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Wallpapers"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833010Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T05:20:57.292Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Wallpapers"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922010Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:08:48.294Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Opensignal - 3G \u0026 4G Signal \u0026 WiFi Speed Test"
+    },
+    "firstInstallationTime": "2018-12-03T18:33:58.019Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-03-20T21:21:35.794Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Services"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416020Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Services"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833018Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:40:21.386Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Services"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922018Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-19T15:59:37.173Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Services"
+    },
+    "firstInstallationTime": "2019-05-07T06:43:26.598Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-13T04:51:26.357Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Services"
+    },
+    "firstInstallationTime": "2018-12-05T12:57:56.677001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-03-27T01:40:35.560Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Services"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428018Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Moto File Manager"
+    },
+    "firstInstallationTime": "2018-12-05T12:59:21.285Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-06T00:35:55.844Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Duo - High Quality Video Calls"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416013Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:27:49.114Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Duo - High Quality Video Calls"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116006Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:03:39.881Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Duo - High Quality Video Calls"
+    },
+    "firstInstallationTime": "2019-12-05T04:19:37.970002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T04:19:37.970Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Duo - High Quality Video Calls"
+    },
+    "firstInstallationTime": "2019-06-21T14:05:59.517Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-04T20:54:30.135Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Duo - High Quality Video Calls"
+    },
+    "firstInstallationTime": "2018-12-05T14:48:20.966Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-11T08:49:00.450Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messages"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416010Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messages"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116004Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:24:28.731Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messages"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:41:06.001Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messages"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-24T14:57:33.664Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messages"
+    },
+    "firstInstallationTime": "2019-04-26T21:59:36.936Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-11T17:45:47.732Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messages"
+    },
+    "firstInstallationTime": "2018-12-05T14:49:53.336Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-03-20T21:22:16.020Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messages"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428003Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Motorola Notifications"
+    },
+    "firstInstallationTime": "2018-12-05T14:50:48.726001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-05T14:50:48.726Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Motorola Notifications"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428025Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Motorola Notifications"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833025Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T05:20:57.292Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Motorola Notifications"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922025Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:08:48.294Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Verizon Cloud"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116019Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T03:57:04.995Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Verizon Cloud"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833029Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-26T17:29:41.360Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Verizon Cloud"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922029Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-31T22:54:22.430Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Verizon Cloud"
+    },
+    "firstInstallationTime": "2018-12-05T14:53:29.827002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-03-27T01:47:53.461Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Verizon Cloud"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428029Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Moto Display"
+    },
+    "firstInstallationTime": "2018-12-05T14:53:29.827001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-05T14:53:29.827Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Moto Actions"
+    },
+    "firstInstallationTime": "2018-12-05T14:54:51.752001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-05T14:54:51.752Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Moto Camera"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833024Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:39:40.064Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Moto Camera"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922024Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-02T00:48:26.957Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Moto Camera"
+    },
+    "firstInstallationTime": "2018-12-05T14:56:36.581002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2018-12-05T14:56:36.581Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Moto Camera"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428024Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "com.cootek.smartinputv5.skin.keyboard_theme_live_neon_heart_theme"
+    },
+    "firstInstallationTime": "2018-12-30T06:19:55.252Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-02T02:46:03.628Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "map.livestreetview"
+    },
+    "firstInstallationTime": "2018-12-30T06:21:26.347Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-01-19T23:34:51.998Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger – Text and Video Chat for Free"
+    },
+    "firstInstallationTime": "2020-10-23T10:39:52.626001Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T10:39:52.626Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger – Text and Video Chat for Free"
+    },
+    "firstInstallationTime": "2020-02-09T02:18:21.782Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T04:34:59.582Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger – Text and Video Chat for Free"
+    },
+    "firstInstallationTime": "2019-12-18T04:08:35.663Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-24T17:56:06.855Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger – Text and Video Chat for Free"
+    },
+    "firstInstallationTime": "2019-12-05T04:19:37.970Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T04:19:37.970Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger – Text and Video Chat for Free"
+    },
+    "firstInstallationTime": "2019-11-26T15:37:08.008Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-01T05:33:48.641Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger – Text and Video Chat for Free"
+    },
+    "firstInstallationTime": "2019-07-17T04:55:56.283Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:01:04.279Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger – Text and Video Chat for Free"
+    },
+    "firstInstallationTime": "2019-04-29T02:16:42.189Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-11T17:47:08.568Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger – Text and Video Chat for Free"
+    },
+    "firstInstallationTime": "2019-01-12T02:08:04.722Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-12T00:59:43.744Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416003Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T10:00:10.585Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2020-04-05T04:25:39.430Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-09T10:12:13.205Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2020-01-03T23:02:12.147Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-03T23:02:12.147Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2019-11-18T00:07:59.342Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T05:20:57.292Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2019-07-16T22:37:39.233Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:03:14.820Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2019-04-29T02:15:58.902Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-11T17:49:49.086Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2019-01-26T01:15:46.797Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-11T08:49:45.170Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050003Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845005Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324003Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Facebook Lite"
+    },
+    "firstInstallationTime": "2019-01-26T01:15:46.797001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-11T08:50:28.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Twitter"
+    },
+    "firstInstallationTime": "2019-02-27T12:15:33.641Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-09T14:07:14.663Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Snapchat"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692016Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Snapchat"
+    },
+    "firstInstallationTime": "2019-05-02T05:32:36.014Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-11T17:44:39.347Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Snapchat"
+    },
+    "firstInstallationTime": "2019-02-27T12:22:30.235Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-09T13:51:30.888Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Coin Master"
+    },
+    "firstInstallationTime": "2019-03-05T19:18:33.665Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-03-05T19:18:33.665Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "TikTok - Trends Start Here"
+    },
+    "firstInstallationTime": "2019-03-06T05:56:58.041Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-04T05:33:07.442Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Contacts"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833013Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-26T17:27:47.874Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Contacts"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922013Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:01:04.279Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Contacts"
+    },
+    "firstInstallationTime": "2019-04-26T22:00:24.074Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-09T10:35:21.013Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Contacts"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428013Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Navigation for Google Maps Go"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:45:02.503Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Navigation for Google Maps Go"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922004Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-18T19:25:45.593Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Navigation for Google Maps Go"
+    },
+    "firstInstallationTime": "2019-04-26T22:01:00.492Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-05-18T12:40:17.624Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Navigation for Google Maps Go"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428004Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Go: A lighter, faster way to search"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833008Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-26T17:28:21.867Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Go: A lighter, faster way to search"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922008Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-23T01:30:35.128Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Go: A lighter, faster way to search"
+    },
+    "firstInstallationTime": "2019-04-26T22:01:00.492001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-29T17:37:57.172Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Go: A lighter, faster way to search"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428008Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Files by Google: Clean up space on your phone"
+    },
+    "firstInstallationTime": "2020-10-23T07:06:12.397006Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Files by Google: Clean up space on your phone"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833005Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:47:16.187Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Files by Google: Clean up space on your phone"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692007Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-16T00:30:42.795Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Files by Google: Clean up space on your phone"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922005Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-19T16:12:44.192Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Files by Google: Clean up space on your phone"
+    },
+    "firstInstallationTime": "2019-04-26T22:01:37.358Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-19T17:34:21.930Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Files by Google: Clean up space on your phone"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428005Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Maps Go - Directions, Traffic \u0026 Transit"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:48:43.067Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Maps Go - Directions, Traffic \u0026 Transit"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922002Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-18T19:25:13.441Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Maps Go - Directions, Traffic \u0026 Transit"
+    },
+    "firstInstallationTime": "2019-04-26T22:02:56.849001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-04-26T22:02:56.849Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Maps Go - Directions, Traffic \u0026 Transit"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428002Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Phone by Google - Caller ID \u0026 Spam Protection"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833015Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:49:41.494Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Phone by Google - Caller ID \u0026 Spam Protection"
+    },
+    "firstInstallationTime": "2019-07-24T06:25:34.094Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:05:42.559Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Phone by Google - Caller ID \u0026 Spam Protection"
+    },
+    "firstInstallationTime": "2019-04-26T22:03:28.066001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-09T11:37:42.406Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Phone by Google - Caller ID \u0026 Spam Protection"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428015Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Assistant Go"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-21T03:51:04.577Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Assistant Go"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-30T00:58:58.968Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Assistant Go"
+    },
+    "firstInstallationTime": "2019-04-26T22:04:04.779Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-11T17:44:39.347Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Assistant Go"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428001Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Go Program Way2Go Card"
+    },
+    "firstInstallationTime": "2019-06-07T04:15:30.608Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-06-07T04:15:30.608Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Lucktastic: Win Prizes, Real Rewards, \u0026 Gift Cards"
+    },
+    "firstInstallationTime": "2019-06-11T00:27:36.682Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-07-08T03:39:30.859Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "PhotoScan by Google Photos"
+    },
+    "firstInstallationTime": "2020-07-25T15:57:35.481Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-07-25T15:57:35.481Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google One"
+    },
+    "firstInstallationTime": "2019-12-05T04:19:37.970001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T04:19:37.970Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google My Maps"
+    },
+    "firstInstallationTime": "2019-07-26T12:06:48.029Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-08T09:49:42.674Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Amazon Prime Video"
+    },
+    "firstInstallationTime": "2020-10-23T10:56:53.610Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T10:56:53.610Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Amazon Prime Video"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Amazon Prime Video"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Amazon Shopping - Search, Find, Ship, and Save"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416001Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-24T01:23:43.800Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Amazon Shopping - Search, Find, Ship, and Save"
+    },
+    "firstInstallationTime": "2020-03-29T01:03:07.960Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Care"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050016Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Care"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845020Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Device Care"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324016Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Hub"
+    },
+    "firstInstallationTime": "2020-07-12T07:04:34.416031Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T07:06:12.397Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Hub"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050031Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Hub"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845034Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Carrier Hub"
+    },
+    "firstInstallationTime": "2019-08-21T09:11:28.602Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "News Break: Local Breaking Stories \u0026 US Headlines"
+    },
+    "firstInstallationTime": "2020-03-29T22:09:33.309Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-09T10:36:18.537Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "News Break: Local Breaking Stories \u0026 US Headlines"
+    },
+    "firstInstallationTime": "2019-09-14T07:16:20.790001Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-10-31T17:41:34.897Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Adobe Fill \u0026 Sign: Easy PDF Doc \u0026 Form Filler."
+    },
+    "firstInstallationTime": "2019-09-27T02:39:08.140Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-09-27T02:39:08.140Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung My Files"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083020Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-02-09T10:35:21.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung My Files"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692031Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-27T22:39:36.707Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung My Files"
+    },
+    "firstInstallationTime": "2020-04-01T02:36:39.717Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung My Files"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845026Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung My Files"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324022Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mobile Security, Antivirus \u0026 Cleaner by Lookout"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845015Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Mobile Security, Antivirus \u0026 Cleaner by Lookout"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324011Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Experience Service"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083006Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-01-25T21:13:34.083Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Experience Service"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050017Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Experience Service"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845021Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Experience Service"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692028Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Experience Service"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324017Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Pinyin Input"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116013Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:15:08.629Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Indic Keyboard"
+    },
+    "firstInstallationTime": "2019-12-17T23:01:37.116002Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2019-12-23T04:22:22.284Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung One UI Home"
+    },
+    "firstInstallationTime": "2020-03-07T10:39:38.050022Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung One UI Home"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845025Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung One UI Home"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324021Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Internet Browser"
+    },
+    "firstInstallationTime": "2020-01-25T21:13:34.083008Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2020-01-25T21:13:34.083Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Internet Browser"
+    },
+    "firstInstallationTime": "2020-03-29T01:03:07.960001Z",
+    "deviceAttribute": {
+      "model": "SM-A102U",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-A102U"
+    },
+    "lastUpdateTime": "2020-05-25T20:28:16.256Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Internet Browser"
+    },
+    "firstInstallationTime": "2019-12-12T08:13:31.845027Z",
+    "deviceAttribute": {
+      "model": "SM-J737P",
+      "carrier": "Boost Mobile",
+      "manufacturer": "samsung",
+      "deviceDisplayName": "samsung SM-J737P"
+    },
+    "lastUpdateTime": "2020-02-09T10:36:23.719Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Internet Browser"
+    },
+    "firstInstallationTime": "2019-08-16T01:08:49.692032Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T15:27:10.858Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Samsung Internet Browser"
+    },
+    "firstInstallationTime": "2019-07-13T11:23:27.324023Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-05T21:08:28.100Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "OfferUp: Buy. Sell. Letgo. Mobile marketplace"
+    },
+    "firstInstallationTime": "2020-01-24T18:23:25.040Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-24T18:23:25.040Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Lucky Day - Win Real Money"
+    },
+    "firstInstallationTime": "2020-01-24T22:01:31.219Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-24T22:01:31.219Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Downloader \u0026 Private Browser - Kode Browser"
+    },
+    "firstInstallationTime": "2020-01-24T23:55:04.366Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-24T23:55:04.366Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "VPNhub Best Free Unlimited VPN - Secure WiFi Proxy"
+    },
+    "firstInstallationTime": "2020-01-25T00:08:14.353Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-25T00:08:14.353Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Messenger for SMS"
+    },
+    "firstInstallationTime": "2020-01-25T10:39:30.357Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-25T10:39:30.357Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Privacy Messenger - Private SMS messages, Call app"
+    },
+    "firstInstallationTime": "2020-01-25T10:41:10.177Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-25T10:41:10.177Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Pandora - Streaming Music, Radio \u0026 Podcasts"
+    },
+    "firstInstallationTime": "2020-01-26T13:35:37.964Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-26T13:35:37.964Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Pinterest"
+    },
+    "firstInstallationTime": "2020-01-26T13:38:48.892Z",
+    "deviceAttribute": {
+      "model": "RC555L",
+      "carrier": "No carrier",
+      "manufacturer": "Reliance",
+      "deviceDisplayName": "Reliance RC555L"
+    },
+    "lastUpdateTime": "2020-01-26T13:38:48.892Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google PDF Viewer"
+    },
+    "firstInstallationTime": "2020-02-05T01:12:57.428006Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T17:35:00.562Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google PDF Viewer"
+    },
+    "firstInstallationTime": "2019-11-17T21:15:28.833006Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-12-06T05:20:57.292Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google PDF Viewer"
+    },
+    "firstInstallationTime": "2019-07-16T21:54:07.922006Z",
+    "deviceAttribute": {
+      "deviceDisplayName": "Unknown Device"
+    },
+    "lastUpdateTime": "2019-11-13T15:08:48.294Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Western Union: International Money Transfers, 24/7"
+    },
+    "firstInstallationTime": "2020-02-12T22:29:20.462Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-07-19T21:14:06.641Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Feet \u0026 Inches Construction Calculator"
+    },
+    "firstInstallationTime": "2020-02-25T20:08:44.227Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-09T10:13:35.199Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "News Home - Local \u0026 World News on Your Home Screen"
+    },
+    "firstInstallationTime": "2020-05-08T09:30:27.679Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-15T04:37:45.004Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "TextNow: Free Texting \u0026 Calling App"
+    },
+    "firstInstallationTime": "2020-10-23T10:39:52.626Z",
+    "deviceAttribute": {
+      "model": "LM-X320",
+      "carrier": "Boost Mobile",
+      "manufacturer": "LGE",
+      "deviceDisplayName": "LGE LM-X320"
+    },
+    "lastUpdateTime": "2020-10-23T10:39:52.626Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Magnifier Plus - Magnifying Glass with Flashlight"
+    },
+    "firstInstallationTime": "2020-06-15T21:04:20.789Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-09T10:16:40.613Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Speak to Voice Translator"
+    },
+    "firstInstallationTime": "2020-06-26T21:28:37.393Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-06-26T21:28:37.393Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Google Meet - Secure Video Meetings"
+    },
+    "firstInstallationTime": "2020-07-25T12:26:33.982Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-09T10:13:35.199Z"
+  }
+},
+{
+  "install": {
+    "doc": {
+      "documentType": "Android Apps",
+      "title": "Adobe Lightroom - Photo Editor \u0026 Pro Camera"
+    },
+    "firstInstallationTime": "2020-08-12T02:24:49.128Z",
+    "deviceAttribute": {
+      "model": "moto e5 go",
+      "carrier": "Verizon Wireless",
+      "manufacturer": "motorola",
+      "deviceDisplayName": "motorola moto e5 go"
+    },
+    "lastUpdateTime": "2020-08-12T02:24:49.128Z"
+  }
+}]
